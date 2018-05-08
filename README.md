@@ -87,7 +87,7 @@ jQuery).
 
 ### Step 1
 
-Click on the New Pull Request button.
+Click on the New Pull Request button. This is a change.
 
 ![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
 
